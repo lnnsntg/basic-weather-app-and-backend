@@ -59,4 +59,4 @@ weatherForm.addEventListener('submit', (e) => {
 })
 
 // Initial fetch
-fetchWeather('Madrid')
+// fetchWeather('Madrid')
